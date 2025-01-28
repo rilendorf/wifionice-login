@@ -1,4 +1,4 @@
-module github.com/derzombiiie/wifionice-login
+module github.com/rilendorf/wifionice-login
 
 go 1.20
 
